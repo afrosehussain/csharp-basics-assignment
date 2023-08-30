@@ -1,0 +1,14 @@
+There is a class Owner. There can only be a single owner, it cannot be extended to any other class, so sealed keyword is used here. The constructor is overloaded in this.
+
+There is an abstract class Worker and has the common properties and methods of all the workers.
+
+There is an interface ICementWorker, which has a method UsesCement()
+
+Mason class extends Worker class and implements ICementWorker interface. One of the method is overridden in this and the method in the interface is implemented.
+
+TileLayer class extends Worker class and implements ICementWorker interface. One of the method is overridden in this and the method in the interface is implemented.
+
+There are another classes Painter, Plumber, Electrician which are extending to the class Worker.
+
+Run the Program.cs file to get the output.
+
