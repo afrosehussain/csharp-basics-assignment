@@ -1,0 +1,14 @@
+C:\Users\afmohammad\source\repos\BuildingAHouse\bin\Debug\net7.0\BuildingAHouse.exe
+C:\Users\afmohammad\source\repos\BuildingAHouse\bin\Debug\net7.0\BuildingAHouse.deps.json
+C:\Users\afmohammad\source\repos\BuildingAHouse\bin\Debug\net7.0\BuildingAHouse.runtimeconfig.json
+C:\Users\afmohammad\source\repos\BuildingAHouse\bin\Debug\net7.0\BuildingAHouse.dll
+C:\Users\afmohammad\source\repos\BuildingAHouse\bin\Debug\net7.0\BuildingAHouse.pdb
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\BuildingAHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\BuildingAHouse.AssemblyInfoInputs.cache
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\BuildingAHouse.AssemblyInfo.cs
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\BuildingAHouse.csproj.CoreCompileInputs.cache
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\BuildingAHouse.dll
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\refint\BuildingAHouse.dll
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\BuildingAHouse.pdb
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\BuildingAHouse.genruntimeconfig.cache
+C:\Users\afmohammad\source\repos\BuildingAHouse\obj\Debug\net7.0\ref\BuildingAHouse.dll
